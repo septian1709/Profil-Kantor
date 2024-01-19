@@ -1,0 +1,497 @@
+CRITICAL - 2024-01-01 02:14:30 --> Undefined property: App\Controllers\Web::$input
+in APPPATH\Controllers\Web.php on line 62.
+ 1 APPPATH\Controllers\Web.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Web::$input', 'C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Controllers\\Web.php', 62, [])
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-01 02:19:43 --> Undefined variable: request
+in APPPATH\Controllers\Web.php on line 63.
+ 1 APPPATH\Controllers\Web.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: request', 'C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Controllers\\Web.php', 63, [])
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-01 02:20:18 --> Undefined variable: request
+in APPPATH\Controllers\Web.php on line 63.
+ 1 APPPATH\Controllers\Web.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: request', 'C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Controllers\\Web.php', 63, [])
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-01 02:21:25 --> Undefined variable: request
+in APPPATH\Controllers\Web.php on line 63.
+ 1 APPPATH\Controllers\Web.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: request', 'C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Controllers\\Web.php', 63, [])
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-01 02:24:55 --> Undefined property: App\Controllers\Web::$input
+in APPPATH\Controllers\Web.php on line 62.
+ 1 APPPATH\Controllers\Web.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Web::$input', 'C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Controllers\\Web.php', 62, [])
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-01 02:26:39 --> Undefined property: App\Controllers\Web::$input
+in APPPATH\Controllers\Web.php on line 62.
+ 1 APPPATH\Controllers\Web.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Web::$input', 'C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Controllers\\Web.php', 62, [])
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-01 02:27:37 --> Undefined variable: request
+in APPPATH\Controllers\Web.php on line 63.
+ 1 APPPATH\Controllers\Web.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: request', 'C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Controllers\\Web.php', 63, [])
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-01 02:30:34 --> Undefined variable: request
+in APPPATH\Controllers\Web.php on line 63.
+ 1 APPPATH\Controllers\Web.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: request', 'C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Controllers\\Web.php', 63, [])
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-01 02:31:21 --> Undefined variable: request
+in APPPATH\Controllers\Web.php on line 63.
+ 1 APPPATH\Controllers\Web.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: request', 'C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Controllers\\Web.php', 63, [])
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-01 02:39:20 --> Undefined variable: request
+in APPPATH\Controllers\Web.php on line 63.
+ 1 APPPATH\Controllers\Web.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: request', 'C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Controllers\\Web.php', 63, [])
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-01 02:39:53 --> Undefined property: App\Controllers\Web::$input
+in APPPATH\Controllers\Web.php on line 62.
+ 1 APPPATH\Controllers\Web.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Web::$input', 'C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Controllers\\Web.php', 62, [])
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:10:54 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1 in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->simpan()
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-01 04:10:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM \'gempapgr3\' WHERE id=\'20233030195939\'')
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:13:19 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1 in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->simpan()
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-01 04:13:19 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM \'gempapgr3\' WHERE id=\'20233030195939\'')
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:14:37 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1 in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->simpan()
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-01 04:14:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM \'gempapgr3\' WHERE id=\'20233030195939\'')
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:15:40 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1 in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->simpan()
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-01 04:15:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM \'gempapgr3\' WHERE id=\'20233030195939\'')
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:15:59 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1 in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->simpan()
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-01 04:15:59 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM \'gempapgr3\' WHERE id=\'20233030195939\'')
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:16:30 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1 in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->simpan()
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-01 04:16:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''gempapgr3' WHERE id='20233030195939'' at line 1
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Controllers\Web.php(92): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM \'gempapgr3\' WHERE id=\'20233030195939\'')
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->simpan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:17:37 --> mysqli_sql_exception: Table 'profile_web.gempabumiwilayahbali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:17:37 --> Table 'profile_web.gempabumiwilayahbali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumiwilayahbali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:19:06 --> mysqli_sql_exception: Table 'profile_web.gempabumibali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:19:06 --> Table 'profile_web.gempabumibali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumibali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:19:07 --> mysqli_sql_exception: Table 'profile_web.gempabumibali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:19:07 --> Table 'profile_web.gempabumibali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumibali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:19:08 --> mysqli_sql_exception: Table 'profile_web.gempabumibali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:19:08 --> Table 'profile_web.gempabumibali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumibali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:19:09 --> mysqli_sql_exception: Table 'profile_web.gempabumibali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:19:09 --> Table 'profile_web.gempabumibali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumibali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:19:10 --> mysqli_sql_exception: Table 'profile_web.gempabumibali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:19:10 --> Table 'profile_web.gempabumibali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumibali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:19:11 --> mysqli_sql_exception: Table 'profile_web.gempabumibali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:19:11 --> Table 'profile_web.gempabumibali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumibali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:20:24 --> mysqli_sql_exception: Table 'profile_web.gempabumibali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:20:24 --> Table 'profile_web.gempabumibali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumibali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:20:25 --> mysqli_sql_exception: Table 'profile_web.gempabumibali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:20:25 --> Table 'profile_web.gempabumibali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumibali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:21:54 --> mysqli_sql_exception: Table 'profile_web.gempabumibali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:21:54 --> Table 'profile_web.gempabumibali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumibali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:21:58 --> mysqli_sql_exception: Table 'profile_web.gempabumibali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:21:58 --> Table 'profile_web.gempabumibali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumibali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-01 04:21:59 --> mysqli_sql_exception: Table 'profile_web.gempabumibali' doesn't exist in C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT infogemp...', 0)
+#1 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT infogemp...')
+#2 C:\laragon\www\geofisikaDNP\profileWeb\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT infogemp...')
+#3 C:\laragon\www\geofisikaDNP\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(228): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\geofisikaDNP\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\laragon\www\geofisikaDNP\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\laragon\www\geofisikaDNP\profileWeb\app\Controllers\Web.php(57): view('informasiGempaB...')
+#8 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\laragon\www\geofisikaDNP\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\geofisikaDNP\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-01-01 04:21:59 --> Table 'profile_web.gempabumibali' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabumibali ORDER BY id DESC LIMIT 20')
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\laragon\\www\\geofisikaDNP\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 5 APPPATH\Controllers\Web.php(57): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 6 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

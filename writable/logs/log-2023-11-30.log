@@ -1,0 +1,10 @@
+CRITICAL - 2023-11-30 06:21:17 --> Invalid file: "Layout/template2.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Layout/template2.php')
+ 2 SYSTEMPATH\View\View.php(244): CodeIgniter\View\View->render('Layout/template2', [], true)
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('artikel/artikel_gempa2023', [], true)
+ 4 APPPATH\Controllers\Web.php(40): view('artikel/artikel_gempa2023')
+ 5 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->artikel('gempa2023')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

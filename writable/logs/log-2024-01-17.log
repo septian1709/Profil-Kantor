@@ -1,0 +1,95 @@
+ERROR - 2024-01-17 01:33:32 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it.
+ in C:\xampp7\htdocs\profileWeb\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp7\htdocs\profileWeb\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', 'sanglah151197', 'profile_web', 3306, '', 0)
+#1 C:\xampp7\htdocs\profileWeb\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp7\htdocs\profileWeb\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp7\htdocs\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\xampp7\htdocs\profileWeb\system\View\View.php(228): include('C:\\xampp7\\htdoc...')
+#5 C:\xampp7\htdocs\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\xampp7\htdocs\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\xampp7\htdocs\profileWeb\app\Controllers\Web.php(58): view('informasiGempaB...')
+#8 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp7\htdocs\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp7\htdocs\profileWeb\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp7\\htdoc...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it.
+ in C:\xampp7\htdocs\profileWeb\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp7\htdocs\profileWeb\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp7\htdocs\profileWeb\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp7\htdocs\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#3 C:\xampp7\htdocs\profileWeb\system\View\View.php(228): include('C:\\xampp7\\htdoc...')
+#4 C:\xampp7\htdocs\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp7\htdocs\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#6 C:\xampp7\htdocs\profileWeb\app\Controllers\Web.php(58): view('informasiGempaB...')
+#7 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#8 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#9 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp7\htdocs\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp7\htdocs\profileWeb\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp7\\htdoc...')
+#12 {main}
+CRITICAL - 2024-01-17 01:33:32 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabali ORDER BY id DESC LIMIT 20')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp7\\htdocs\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 6 APPPATH\Controllers\Web.php(58): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 7 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp7\\htdocs\\profileWeb\\public\\index.php')
+ERROR - 2024-01-17 01:56:50 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp7\htdocs\profileWeb\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\xampp7\htdocs\profileWeb\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', 'sanglah151197', 'profile_web', 3306, '', 0)
+#1 C:\xampp7\htdocs\profileWeb\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp7\htdocs\profileWeb\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp7\htdocs\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#4 C:\xampp7\htdocs\profileWeb\system\View\View.php(228): include('C:\\xampp7\\htdoc...')
+#5 C:\xampp7\htdocs\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#6 C:\xampp7\htdocs\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#7 C:\xampp7\htdocs\profileWeb\app\Controllers\Web.php(58): view('informasiGempaB...')
+#8 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#9 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#10 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp7\htdocs\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp7\htdocs\profileWeb\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp7\\htdoc...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\xampp7\htdocs\profileWeb\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp7\htdocs\profileWeb\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp7\htdocs\profileWeb\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp7\htdocs\profileWeb\app\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogemp...')
+#3 C:\xampp7\htdocs\profileWeb\system\View\View.php(228): include('C:\\xampp7\\htdoc...')
+#4 C:\xampp7\htdocs\profileWeb\system\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp7\htdocs\profileWeb\system\Common.php(1190): CodeIgniter\View\View->render('informasiGempaB...', Array, true)
+#6 C:\xampp7\htdocs\profileWeb\app\Controllers\Web.php(58): view('informasiGempaB...')
+#7 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+#8 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+#9 C:\xampp7\htdocs\profileWeb\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp7\htdocs\profileWeb\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp7\htdocs\profileWeb\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp7\\htdoc...')
+#12 {main}
+CRITICAL - 2024-01-17 01:56:50 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Views\informasiGempaBumi\gempaBumiTerkini.php(22): CodeIgniter\Database\BaseConnection->query('SELECT infogempa FROM gempabali ORDER BY id DESC LIMIT 20')
+ 3 SYSTEMPATH\View\View.php(228): include('C:\\xampp7\\htdocs\\profileWeb\\app\\Views\\informasiGempaBumi\\gempaBumiTerkini.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('informasiGempaBumi/gempaBumiTerkini.php', [], true)
+ 6 APPPATH\Controllers\Web.php(58): view('informasiGempaBumi/gempaBumiTerkini.php')
+ 7 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->infogempaterkini()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp7\\htdocs\\profileWeb\\public\\index.php')

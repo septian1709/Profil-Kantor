@@ -1,0 +1,62 @@
+CRITICAL - 2023-11-13 03:30:40 --> Cannot redeclare App\Controllers\Web::beranda()
+in APPPATH\Controllers\Web.php on line 42.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-13 03:30:52 --> Cannot redeclare App\Controllers\Web::beranda()
+in APPPATH\Controllers\Web.php on line 42.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-13 03:30:54 --> Cannot redeclare App\Controllers\Web::beranda()
+in APPPATH\Controllers\Web.php on line 42.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-11-13 03:32:12 --> Argument 1 passed to view() must be of the type string, null given, called in C:\laragon\www\belajar-ci4\app\Controllers\Web.php on line 40
+in SYSTEMPATH\Common.php on line 1178.
+ 1 APPPATH\Controllers\Web.php(40): view(null)
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->artikel('1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 03:33:26 --> Argument 1 passed to view() must be of the type string, null given, called in C:\laragon\www\belajar-ci4\app\Controllers\Web.php on line 40
+in SYSTEMPATH\Common.php on line 1178.
+ 1 APPPATH\Controllers\Web.php(40): view(null)
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->artikel('1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 03:33:33 --> Argument 1 passed to view() must be of the type string, null given, called in C:\laragon\www\belajar-ci4\app\Controllers\Web.php on line 40
+in SYSTEMPATH\Common.php on line 1178.
+ 1 APPPATH\Controllers\Web.php(40): view(null)
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->artikel('gempa2023')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 03:34:03 --> Argument 1 passed to view() must be of the type string, null given, called in C:\laragon\www\belajar-ci4\app\Controllers\Web.php on line 40
+in SYSTEMPATH\Common.php on line 1178.
+ 1 APPPATH\Controllers\Web.php(40): view(null)
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->artikel('gempa2023')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 03:34:09 --> Argument 1 passed to view() must be of the type string, null given, called in C:\laragon\www\belajar-ci4\app\Controllers\Web.php on line 40
+in SYSTEMPATH\Common.php on line 1178.
+ 1 APPPATH\Controllers\Web.php(40): view(null)
+ 2 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->artikel('gempa2023')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 03:35:02 --> Invalid file: "artikel/artikel_gempa2023php.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel/artikel_gempa2023php.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('artikel/artikel_gempa2023php', [], true)
+ 3 APPPATH\Controllers\Web.php(40): view('artikel/artikel_gempa2023php')
+ 4 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->artikel('gempa2023')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-13 03:35:03 --> Invalid file: "artikel/artikel_gempa2023php.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('artikel/artikel_gempa2023php.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('artikel/artikel_gempa2023php', [], true)
+ 3 APPPATH\Controllers\Web.php(40): view('artikel/artikel_gempa2023php')
+ 4 SYSTEMPATH\CodeIgniter.php(939): App\Controllers\Web->artikel('gempa2023')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Web))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
